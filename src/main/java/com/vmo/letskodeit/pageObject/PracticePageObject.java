@@ -17,7 +17,7 @@ public class PracticePageObject extends BasePage {
         driver.get("https://www.letskodeit.com/practice");
     }
     public void verifyAccessPageSuccessfully(){
-        Assert.assertEquals(driver.getTitle(),"Practice Page");
+        Assert.assertEquals(driver,getTitle(driver),"Practice Page");
     }
 
     public void selectBMWCheckBox(){
