@@ -16,13 +16,52 @@ public class PracticePageObject extends BasePage {
     public void openletskodeitPracticePage (){
         driver.get("https://www.letskodeit.com/practice");
     }
+    public void verifyAccessPageSuccessfully(){
+        Assert.assertEquals(driver.getTitle(),"Practice Page");
+    }
+
     public void selectBMWCheckBox(){
-        WebElement BMWCheckBox = driver.findElement(By.xpath(PracticePageUI.BMW_CHECKBOX));
-        BMWCheckBox.click();
-        Assert.assertTrue(BMWCheckBox.isSelected());
+        clickToElement(driver,PracticePageUI.BMW_CHECKBOX);
+    }
+
+    public void isBMWCheckboxSelected(){
+        isElementSelected(driver,PracticePageUI.BMW_CHECKBOX);
+    }
+    public void selectBENZCheckbox(){
+        clickToElement(driver,PracticePageUI.BENZ_CHECKBOX);
+    }
+    public void isBENZCheckboxSlected(){
+        isElementSelected(driver,PracticePageUI.BENZ_CHECKBOX);
+    }
+    public void selectHondaRadio(){
+        clickToElement(driver,PracticePageUI.HONDA_RADIO);
+    }
+    public void isHondaRadioSeleted(){
+        isElementSelected(driver,PracticePageUI.HONDA_RADIO);
+    }
+    public void selecBenzRadio(){
+        clickToElement(driver,PracticePageUI.BENZ_RADIO);
+    }
+    public void isBenzRadioSelected(){
+        isElementSelected(driver,PracticePageUI.BENZ_RADIO);
+    }
+    public void selectEnableOrDisableBtn(){
+        if (isElementEnable(driver,PracticePageUI.ENABLE_BUTTON)){
+            clickToElement(driver,PracticePageUI.DISABLE_BUTTON);
+        }else clickToElement(driver,PracticePageUI.ENABLE_BUTTON);
+    }
+    public void isEnableOrDisableBtnEnable(){
+        isElementEnable(driver,PracticePageUI.STATUS_BUTTON);
+
     }
 
     public String getTitlePracticePage(){
         return driver.getTitle();
     }
+
+//  Study on class
+    // 1. Click, senkey using Dynamic
+    public void selectBMWCheckBoxStudy(){
+    clickToElementDynamic(driver,PracticePageUI.DYNAMIC_LOCATOR,"bmw","bmwcheck");
+}
 }

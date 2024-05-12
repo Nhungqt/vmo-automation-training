@@ -24,10 +24,40 @@ public class CheckboxRadioButtonTest extends BaseTest {
     @Test
     public void TC01_HandleCheckbox(){
         practicePageObject.openletskodeitPracticePage();
-        Assert.assertEquals(practicePageObject.getTitlePracticePage(),"Practice Page");
+        practicePageObject.verifyAccessPageSuccessfully();
 
         practicePageObject.selectBMWCheckBox();
-        Assert.assertTrue();
+        practicePageObject.isBMWCheckboxSelected();
 
+        practicePageObject.selectBENZCheckbox();
+        practicePageObject.isBENZCheckboxSlected();
+
+        practicePageObject.selectBMWCheckBox();
+        practicePageObject.isBMWCheckboxSelected();
+    }
+    @Test
+    public void TC02_HandleRadioButton(){
+        practicePageObject.openletskodeitPracticePage();
+        practicePageObject.verifyAccessPageSuccessfully();
+
+        practicePageObject.selectHondaRadio();
+        practicePageObject.isHondaRadioSeleted();
+
+        practicePageObject.selecBenzRadio();
+        practicePageObject.isBenzRadioSelected();
+
+        practicePageObject.selectHondaRadio();
+        practicePageObject.isHondaRadioSeleted();
+
+        practicePageObject.selectHondaRadio();
+        practicePageObject.isHondaRadioSeleted();
+    }
+    @Test
+    public void TC03_FieldStatus(){
+        practicePageObject.openletskodeitPracticePage();
+        practicePageObject.verifyAccessPageSuccessfully();
+
+        practicePageObject.selectEnableOrDisableBtn();
+        practicePageObject.isEnableOrDisableBtnEnable();
     }
 }
