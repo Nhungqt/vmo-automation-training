@@ -333,16 +333,16 @@ public class BasePage {
         action.dragAndDrop(source, target).perform();
     }
 
-    public void pressKeyboardToElemntByActions(WebDriver driver, String locator, Keys key) {
+    public void pressKeyboardToElementByActions(WebDriver driver, String locator, Keys key) {
         action = new Actions(driver);
         action.sendKeys(getWebElement(driver, locator), key).perform();
     }
 
-    public void pressKeyboardToElemnt(WebDriver driver, String locator, Keys key) {
+    public void pressKeyboardToElement(WebDriver driver, String locator, Keys key) {
         getWebElement(driver, locator).sendKeys(key);
     }
 
-    public void pressKeyboardToElemnt(WebDriver driver, String locator, Keys key, String... params) {
+    public void pressKeyboardToElement(WebDriver driver, String locator, Keys key, String... params) {
         locator = getDynamicLocator(locator, params);
         getWebElement(driver, locator).sendKeys(key);
     }
