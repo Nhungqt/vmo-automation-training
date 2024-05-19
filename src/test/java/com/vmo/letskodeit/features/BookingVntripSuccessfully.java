@@ -13,8 +13,7 @@ public class BookingVntripSuccessfully extends BaseTest {
 
     @BeforeMethod
     public void setUp() {
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
+        driver = getBrowserDriver("CHROME");
 
         vntripPageObject = new VntripPageObject(driver);
     }
