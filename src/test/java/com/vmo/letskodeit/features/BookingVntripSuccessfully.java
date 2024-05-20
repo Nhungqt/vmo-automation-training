@@ -3,10 +3,9 @@ package com.vmo.letskodeit.features;
 import com.vmo.letskodeit.common.BaseTest;
 import com.vmo.letskodeit.pageObject.VntripPageObject;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
+//@Listeners(TestListener.class)
 public class BookingVntripSuccessfully extends BaseTest {
     private WebDriver driver;
     private VntripPageObject vntripPageObject;

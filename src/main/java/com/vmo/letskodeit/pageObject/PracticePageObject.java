@@ -1,11 +1,13 @@
 package com.vmo.letskodeit.pageObject;
 
 import com.vmo.letskodeit.common.BasePage;
+import com.vmo.letskodeit.helper.Log;
 import com.vmo.letskodeit.interfaces.PracticePageUI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+
 
 public class PracticePageObject extends BasePage {
     private WebDriver driver;
@@ -15,6 +17,7 @@ public class PracticePageObject extends BasePage {
     }
 
     public void openletskodeitPracticePage() {
+        Log.info("open Practice Page");
         driver.get("https://www.letskodeit.com/practice");
     }
 
@@ -27,6 +30,7 @@ public class PracticePageObject extends BasePage {
     }
 
     public void isBMWCheckboxSelected() {
+        Log.info("Select BMW Checkbox successfully");
         isElementSelected(driver, PracticePageUI.BMW_CHECKBOX);
     }
 

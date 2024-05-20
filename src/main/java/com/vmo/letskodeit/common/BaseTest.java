@@ -1,10 +1,12 @@
 package com.vmo.letskodeit.common;
 
 import com.vmo.letskodeit.driverFactory.localFactory.LocalFactory;
+import com.vmo.letskodeit.helper.TestListener;
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Listeners;
 
 import java.io.IOException;
-
+@Listeners(TestListener.class)
 public class BaseTest {
     private WebDriver driver;
 
