@@ -25,6 +25,9 @@ public class BasePage {
     public static BasePage getBasePage() {
         return new BasePage();
     }
+    public void openUrl(WebDriver driver, String url) {
+        driver.get(url);
+    }
 
     public static String getDynamicLocator(String locator, String... params) {
         return String.format(locator, (Object[]) params);

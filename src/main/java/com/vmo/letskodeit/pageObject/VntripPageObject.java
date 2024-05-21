@@ -13,14 +13,14 @@ public class VntripPageObject extends BasePage {
     }
 
     public void openVntripPage() {
-        driver.get("https://app.vntrip.vn/");
+        openUrl(driver,"https://app.vntrip.vn/");
     }
 
     public void getTitleOfVntrip() {
         Assert.assertEquals(driver.getTitle(), "Vntrip: Đặt phòng khách sạn, vé máy bay, combo du lịch giá rẻ");
     }
 
-    public void inputSearchCondition(){
+    public void searchHotel() {
         waitForElementClickable(driver, VntripPageUI.KHACHSAN_TEXTLINK);
         clickToElement(driver, VntripPageUI.KHACHSAN_TEXTLINK);
         waitForElementVisible(driver, VntripPageUI.SEARCH_INPUT);
@@ -32,127 +32,36 @@ public class VntripPageObject extends BasePage {
         clickToElement(driver, VntripPageUI.RECEIVE_DAY);
         clickToElement(driver, VntripPageUI.RETURN_DAY);
         clickToElement(driver, VntripPageUI.SEARCH_BTN);
+    }
+
+    public void clickOnDatPhongBtn() {
         waitForElementVisible(driver, VntripPageUI.ROOM_LIST);
         waitForElementVisible(driver, VntripPageUI.ROOM_LIST);
         clickToElement(driver, VntripPageUI.DATPHONG_BTN);
+    }
+
+    public void inputPersonalInformation() {
         waitForElementVisible(driver, VntripPageUI.CHECKOUT_FORM);
         waitForElementVisible(driver, VntripPageUI.FULLNAME_INPUT);
         waitForElementVisible(driver, VntripPageUI.FULLNAME_INPUT, "Quach Thi Nhung");
         waitForElementVisible(driver, VntripPageUI.PHONENUMBER_INPUT, "345678900");
         waitForElementVisible(driver, VntripPageUI.EMAIL_INPUT, "nhungqt@gmail.com");
-
-    }
-
-    public void waitForKhachSanclickable() {
-
-    }
-
-    public void clickOnKhachSan() {
-
-    }
-
-    public void waitforSearchfieldVisible() {
-
-    }
-
-    public void senkeyToSearchField() {
-
-    }
-
-    public void waitForHotelListVisible() {
-
-    }
-
-    public void clickOnJWHaNoi() {
-
-    }
-
-    public void SelectDay() {
-
-    }
-
-    public void scrolltoReturnDay() {
-
-    }
-
-    public void selectReceiveDay() {
-
-    }
-
-    public void selectReturnDay() {
-
-    }
-
-    public void clickOnSearchBtn() {
-
-    }
-
-    public void waitForRoomListVisible() {
-
-    }
-
-    public void clickOnDatPhongBtn() {
-
-    }
-
-    public void waitForCheckoutFormVisible() {
-
-    }
-
-    public void waitForFullNameFieldVisible() {
-
-    }
-
-    public void inputFullName() {
-
-    }
-
-    public void inputPhoneNumber() {
-
-    }
-
-    public void inputEmail() {
-
-    }
-
-    public void clickOnContinueBtn() {
         clickToElement(driver, VntripPageUI.CONTINUE_BTN);
-    }
-
-    public void verifyIsAtCheckoutPayment() {
         String Thanhtoan = getTextElement(driver, VntripPageUI.PAYMENT_FORM);
         Assert.assertEquals(driver, Thanhtoan, "THÔNG TIN THANH TOÁN");
     }
 
-    public void waitForTTCKVisible() {
+    public void paySuccessfully() {
         clickToElement(driver, VntripPageUI.TTCK);
-    }
-
-    public void clickOnTTCK() {
         clickToElement(driver, VntripPageUI.TTCK);
-    }
-
-    public void clickOnContinueToPay() {
         clickToElement(driver, VntripPageUI.CONTINUE_PAYMENT);
-    }
-
-    public void waitForTransferInstructionVisible() {
         clickToElement(driver, VntripPageUI.TRANSFERS_INSTRUCTIONS);
-    }
-
-    public void clickOnIPAID() {
         clickToElement(driver, VntripPageUI.IPAID);
-    }
-
-    public void isGDDXNDisplayed() {
         isElementDisplay(driver, VntripPageUI.GDDDXN);
     }
 
     public void backToHomepage() {
         clickToElement(driver, VntripPageUI.LOGO);
-    }
-
-    public void isAtHomePage() {
         String TrangChu = getAttributeElement(driver, VntripPageUI.HOMEPAGE, "class");
         TrangChu.contains("active");
     }

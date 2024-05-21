@@ -13,7 +13,7 @@ public class BaseTest {
     public WebDriver getBrowserDriver(String browser) {
         driver = new LocalFactory().createDriver(browser);
         driver.manage().window().maximize();
-        driver.get("");
+//        driver.get("");
         return driver;
     }
 
