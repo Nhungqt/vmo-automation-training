@@ -1,0 +1,5 @@
+[26-05-2024 17:02:17.288 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 17:02:17.319 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[26-05-2024 17:02:37.518 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[26-05-2024 17:02:40.042 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[26-05-2024 17:02:40.064 INFO com.vmo.letskodeit.helper.Log] - Test Failed

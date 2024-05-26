@@ -1,0 +1,12 @@
+[26-05-2024 22:29:35.000 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:29:35.034 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:29:45.767 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:29:45.777 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:29:45.780 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:29:47.681 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:29:52.693 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:30:03.272 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:30:03.281 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:30:03.282 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:30:05.148 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:30:10.154 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page

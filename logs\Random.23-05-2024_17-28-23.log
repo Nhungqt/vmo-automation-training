@@ -1,0 +1,13 @@
+[23-05-2024 17:28:23.337 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:23.376 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:23.401 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:25.423 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:25.427 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:28.309 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:30.014 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:35.022 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:35.026 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:36.974 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:36.979 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[23-05-2024 17:28:49.419 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[23-05-2024 17:28:49.511 INFO com.vmo.letskodeit.helper.Log] - Test Failed

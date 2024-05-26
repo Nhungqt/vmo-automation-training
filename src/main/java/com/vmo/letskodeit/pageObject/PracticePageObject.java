@@ -17,54 +17,64 @@ public class PracticePageObject extends BasePage {
     }
 
     public void openletskodeitPracticePage() {
-        Log.info("open Practice Page");
+        Log.allure("Open Practice Page");
         driver.get("https://www.letskodeit.com/practice");
     }
 
-    public void verifyAccessPageSuccessfully() {
-        Assert.assertEquals(driver, getTitle(driver), "Practice Page");
+    public void verifyAccessPageSuccessfully(String title) {
+        Log.allure("Verify title is %s");
+        Assert.assertEquals(getTitle(driver),title);
     }
 
     public void selectBMWCheckBox() {
+        Log.allure("Select BMW CheckBox");
         clickToElement(driver, PracticePageUI.BMW_CHECKBOX);
     }
 
     public void isBMWCheckboxSelected() {
-        Log.info("Select BMW Checkbox successfully");
+        Log.allure("Verify BMW Checkbox is selected");
         isElementSelected(driver, PracticePageUI.BMW_CHECKBOX);
     }
 
     public void selectBENZCheckbox() {
+        Log.allure("Select BENZ Checkbox");
         clickToElement(driver, PracticePageUI.BENZ_CHECKBOX);
     }
 
-    public void isBENZCheckboxSlected() {
+    public void isBENZCheckboxSelected() {
+        Log.allure("Verify BENZ Checkbox is selected");
         isElementSelected(driver, PracticePageUI.BENZ_CHECKBOX);
     }
 
     public void selectHondaRadio() {
+        Log.allure("Select Honda radio");
         clickToElement(driver, PracticePageUI.HONDA_RADIO);
     }
 
-    public void isHondaRadioSeleted() {
+    public void isHondaRadioSelected() {
+        Log.allure("Verify Honda radio is selected");
         isElementSelected(driver, PracticePageUI.HONDA_RADIO);
     }
 
-    public void selecBenzRadio() {
+    public void selectBenzRadio() {
+        Log.allure("Select BENZ radio");
         clickToElement(driver, PracticePageUI.BENZ_RADIO);
     }
 
     public void isBenzRadioSelected() {
+        Log.allure("Verify BENZ radio is lelected");
         isElementSelected(driver, PracticePageUI.BENZ_RADIO);
     }
 
     public void selectEnableOrDisableBtn() {
+        Log.allure("Select Disable or Enable button");
         if (isElementEnable(driver, PracticePageUI.ENABLE_BUTTON)) {
             clickToElement(driver, PracticePageUI.DISABLE_BUTTON);
         } else clickToElement(driver, PracticePageUI.ENABLE_BUTTON);
     }
 
     public void isEnableOrDisableBtnEnable() {
+        Log.allure("Verify Disable or Enable button is Enable");
         isElementEnable(driver, PracticePageUI.STATUS_BUTTON);
 
     }

@@ -1,0 +1,10 @@
+[26-05-2024 22:37:12.882 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:37:12.923 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:37:22.726 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:37:22.737 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:37:22.801 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
+[26-05-2024 22:37:22.822 INFO com.vmo.letskodeit.helper.Log] - Select BENZ Checkbox
+[26-05-2024 22:37:22.866 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ Checkbox is selected
+[26-05-2024 22:37:22.880 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:37:22.915 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
+[26-05-2024 22:37:22.932 INFO com.vmo.letskodeit.helper.Log] - Test Passed

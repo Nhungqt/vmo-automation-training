@@ -5,3 +5,156 @@
 [21-05-2024 22:21:18.053 INFO com.vmo.letskodeit.helper.Log] - on Test Start
 [21-05-2024 22:24:33.592 INFO com.vmo.letskodeit.helper.Log] - on Test Start
 [21-05-2024 22:24:40.459 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 08:29:09.086 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 08:29:09.089 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[23-05-2024 08:29:12.236 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[23-05-2024 08:29:12.364 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 16:14:51.416 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 16:14:51.419 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[23-05-2024 16:14:54.116 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[23-05-2024 16:14:54.206 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:24:38.095 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:24:38.135 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:24:46.993 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:24:48.842 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:24:53.850 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:25:01.802 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:25:03.644 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:25:08.650 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:25:17.486 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:23.337 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:23.376 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:23.401 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:25.423 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:25.427 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:28.309 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:30.014 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:35.022 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[23-05-2024 17:28:35.026 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:28:36.974 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:28:36.979 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[23-05-2024 17:28:49.419 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[23-05-2024 17:28:49.511 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-05-2024 17:35:29.159 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-05-2024 17:35:29.190 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[23-05-2024 17:35:33.088 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[23-05-2024 17:35:33.201 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 15:49:57.925 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 15:49:57.959 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 15:50:05.834 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
+[25-05-2024 15:50:05.943 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 15:54:14.787 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 15:54:14.820 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 15:54:19.887 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 15:54:19.994 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 16:02:06.809 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 16:02:06.837 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 16:02:11.144 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 16:02:11.207 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 16:02:57.321 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 16:02:57.350 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 16:03:01.767 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 16:03:01.897 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 16:15:56.047 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 16:15:56.077 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 16:15:59.927 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 16:15:59.971 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:22:47.600 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:22:47.641 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:22:51.710 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:22:51.756 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:24:43.800 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:24:43.844 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:24:49.825 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:24:49.875 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:25:50.896 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:26:14.363 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:26:25.749 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:37:47.107 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:38:13.088 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:38:13.120 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:38:17.940 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:38:19.645 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:39:17.927 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:39:23.785 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:39:30.301 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:40:53.318 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 17:42:24.766 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:43:47.768 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:44:05.806 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 18:06:36.243 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 21:30:46.791 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 21:34:44.856 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 21:35:05.111 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 21:35:05.138 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 21:35:09.221 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 21:35:12.020 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[25-05-2024 21:35:16.863 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 21:57:48.080 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 21:57:48.122 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 21:58:55.698 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 21:59:39.334 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[25-05-2024 22:00:27.319 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 22:40:17.201 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 22:40:17.236 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 22:40:36.736 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 22:40:39.130 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[25-05-2024 22:40:49.526 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[25-05-2024 22:43:45.010 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 22:43:45.039 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 22:43:50.763 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 22:43:52.985 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[25-05-2024 22:43:53.021 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 17:02:17.288 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 17:02:17.319 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[26-05-2024 17:02:37.518 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[26-05-2024 17:02:40.042 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[26-05-2024 17:02:40.064 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 21:46:38.575 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 21:46:38.610 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[26-05-2024 21:46:42.324 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[26-05-2024 21:46:44.368 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
+[26-05-2024 21:46:44.395 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:08:43.306 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:08:43.332 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
+[26-05-2024 22:08:53.587 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:29:35.000 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:29:35.034 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:29:45.767 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:29:45.777 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:29:45.780 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:29:47.681 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:29:52.693 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:30:03.272 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:30:03.281 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:30:03.282 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[26-05-2024 22:30:05.148 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:30:10.154 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:37:12.882 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:37:12.923 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:37:22.726 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:37:22.737 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:37:22.801 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
+[26-05-2024 22:37:22.822 INFO com.vmo.letskodeit.helper.Log] - Select BENZ Checkbox
+[26-05-2024 22:37:22.866 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ Checkbox is selected
+[26-05-2024 22:37:22.880 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
+[26-05-2024 22:37:22.915 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
+[26-05-2024 22:37:22.932 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[26-05-2024 22:38:10.536 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:38:10.577 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:38:18.911 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:38:18.923 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:18.994 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.013 INFO com.vmo.letskodeit.helper.Log] - Select BENZ radio
+[26-05-2024 22:38:19.059 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ radio is lelected
+[26-05-2024 22:38:19.072 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:19.113 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.131 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:19.169 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.192 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[26-05-2024 22:38:48.214 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:38:48.251 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:38:58.935 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:38:58.946 INFO com.vmo.letskodeit.helper.Log] - Select Disable or Enable button
+[26-05-2024 22:38:59.029 INFO com.vmo.letskodeit.helper.Log] - Verify Disable or Enable button is Enable
+[26-05-2024 22:38:59.048 INFO com.vmo.letskodeit.helper.Log] - Test Passed

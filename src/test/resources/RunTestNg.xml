@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test my website">
+
+    <test name="Test authentication with login">
+        <classes>
+            <class name="com.vmo.letskodeit.features.CheckboxRadioButtonTest"/>
+            <class name="com.vmo.letskodeit.features.BookingVntripTest"></class>
+        </classes>
+    </test>
+
+</suite>

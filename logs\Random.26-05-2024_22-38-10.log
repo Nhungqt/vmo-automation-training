@@ -1,0 +1,12 @@
+[26-05-2024 22:38:10.536 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:38:10.577 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:38:18.911 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:38:18.923 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:18.994 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.013 INFO com.vmo.letskodeit.helper.Log] - Select BENZ radio
+[26-05-2024 22:38:19.059 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ radio is lelected
+[26-05-2024 22:38:19.072 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:19.113 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.131 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
+[26-05-2024 22:38:19.169 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
+[26-05-2024 22:38:19.192 INFO com.vmo.letskodeit.helper.Log] - Test Passed

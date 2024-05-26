@@ -2,6 +2,9 @@ package com.vmo.letskodeit.features;
 
 import com.vmo.letskodeit.common.BaseTest;
 import com.vmo.letskodeit.pageObject.PracticePageObject;
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
+import io.qameta.allure.Story;
 import org.checkerframework.checker.units.qual.C;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -9,6 +12,9 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+@Epic("letskodeit")
+@Feature("Practice Page")
+@Story("Handle checkbox/radio/button")
 public class CheckboxRadioButtonTest extends BaseTest {
     private WebDriver driver;
     private PracticePageObject practicePageObject;
@@ -24,13 +30,13 @@ public class CheckboxRadioButtonTest extends BaseTest {
     @Test
     public void TC01_HandleCheckbox(){
         practicePageObject.openletskodeitPracticePage();
-        practicePageObject.verifyAccessPageSuccessfully();
+        practicePageObject.verifyAccessPageSuccessfully("Practice Page");
 
         practicePageObject.selectBMWCheckBox();
         practicePageObject.isBMWCheckboxSelected();
 
         practicePageObject.selectBENZCheckbox();
-        practicePageObject.isBENZCheckboxSlected();
+        practicePageObject.isBENZCheckboxSelected();
 
         practicePageObject.selectBMWCheckBox();
         practicePageObject.isBMWCheckboxSelected();
@@ -38,24 +44,24 @@ public class CheckboxRadioButtonTest extends BaseTest {
     @Test
     public void TC02_HandleRadioButton(){
         practicePageObject.openletskodeitPracticePage();
-        practicePageObject.verifyAccessPageSuccessfully();
+        practicePageObject.verifyAccessPageSuccessfully("Practice Page");
 
         practicePageObject.selectHondaRadio();
-        practicePageObject.isHondaRadioSeleted();
+        practicePageObject.isHondaRadioSelected();
 
-        practicePageObject.selecBenzRadio();
+        practicePageObject.selectBenzRadio();
         practicePageObject.isBenzRadioSelected();
 
         practicePageObject.selectHondaRadio();
-        practicePageObject.isHondaRadioSeleted();
+        practicePageObject.isHondaRadioSelected();
 
         practicePageObject.selectHondaRadio();
-        practicePageObject.isHondaRadioSeleted();
+        practicePageObject.isHondaRadioSelected();
     }
     @Test
     public void TC03_FieldStatus(){
         practicePageObject.openletskodeitPracticePage();
-        practicePageObject.verifyAccessPageSuccessfully();
+        practicePageObject.verifyAccessPageSuccessfully("Practice Page");
 
         practicePageObject.selectEnableOrDisableBtn();
         practicePageObject.isEnableOrDisableBtnEnable();

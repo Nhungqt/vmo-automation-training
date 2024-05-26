@@ -1,0 +1,4 @@
+[25-05-2024 17:25:50.896 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[25-05-2024 17:26:14.363 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
+[25-05-2024 17:26:25.749 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
+[25-05-2024 17:37:47.107 INFO com.vmo.letskodeit.helper.Log] - Test Failed

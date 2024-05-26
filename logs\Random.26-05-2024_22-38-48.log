@@ -1,0 +1,6 @@
+[26-05-2024 22:38:48.214 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[26-05-2024 22:38:48.251 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
+[26-05-2024 22:38:58.935 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
+[26-05-2024 22:38:58.946 INFO com.vmo.letskodeit.helper.Log] - Select Disable or Enable button
+[26-05-2024 22:38:59.029 INFO com.vmo.letskodeit.helper.Log] - Verify Disable or Enable button is Enable
+[26-05-2024 22:38:59.048 INFO com.vmo.letskodeit.helper.Log] - Test Passed
