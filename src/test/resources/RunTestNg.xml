@@ -2,10 +2,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Test my website">
-
-    <test name="Test authentication with login">
+    <test name="Input peronal information">
+        <parameter name="browser" value="CHROME"></parameter>
+        <parameter name="fullname" value="Quach Thi Nhun"></parameter>
+        <parameter name="phonenumber" value="345678900"></parameter>
+        <parameter name="email" value="nhungqt@gmail.com"></parameter>
         <classes>
-            <class name="com.vmo.letskodeit.features.CheckboxRadioButtonTest"/>
+<!--            <class name="com.vmo.letskodeit.features.CheckboxRadioButtonTest"/>-->
             <class name="com.vmo.letskodeit.features.BookingVntripTest"></class>
         </classes>
     </test>

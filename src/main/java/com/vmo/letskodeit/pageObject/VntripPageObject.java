@@ -45,13 +45,13 @@ public class VntripPageObject extends BasePage {
         clickToElement(driver, VntripPageUI.DATPHONG_BTN);
     }
 
-    public void inputPersonalInformation() {
+    public void inputPersonalInformation(String fullname, String phonenumber, String email) {
         Log.allure("Nhập thông tin cá nhân");
         waitForElementVisible(driver, VntripPageUI.CHECKOUT_FORM);
         waitForElementVisible(driver, VntripPageUI.FULLNAME_INPUT);
-        waitForElementVisible(driver, VntripPageUI.FULLNAME_INPUT, "Quach Thi Nhung");
-        waitForElementVisible(driver, VntripPageUI.PHONENUMBER_INPUT, "345678900");
-        waitForElementVisible(driver, VntripPageUI.EMAIL_INPUT, "nhungqt@gmail.com");
+        waitForElementVisible(driver, VntripPageUI.FULLNAME_INPUT,fullname);
+        waitForElementVisible(driver, VntripPageUI.PHONENUMBER_INPUT, phonenumber);
+        waitForElementVisible(driver, VntripPageUI.EMAIL_INPUT, email);
         clickToElement(driver, VntripPageUI.CONTINUE_BTN);
         String Thanhtoan = getTextElement(driver, VntripPageUI.PAYMENT_FORM);
         Assert.assertEquals(driver, Thanhtoan, "THÔNG TIN THANH TOÁN");

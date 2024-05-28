@@ -10,6 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 @Epic("letskodeit")
@@ -20,8 +21,9 @@ public class CheckboxRadioButtonTest extends BaseTest {
     private PracticePageObject practicePageObject;
 
     @BeforeMethod
-    public void setUp(){
-        driver = new ChromeDriver();
+    @Parameters("browser")
+    public void setUp(String browser) {
+        driver = getBrowserDriver(browser);
         driver.manage().window().maximize();
 
         practicePageObject = new PracticePageObject(driver);
