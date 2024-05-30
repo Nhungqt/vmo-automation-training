@@ -57,4 +57,5 @@ public class BaseTest {
         Process process = Runtime.getRuntime().exec(cmd);
         process.waitFor();
     }
+    public static final String testDataExcelFileName = "testdata.xlsx";
 }
