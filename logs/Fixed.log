@@ -1,167 +1,231 @@
-[20-05-2024 17:35:04.000 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[20-05-2024 17:35:04.002 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[20-05-2024 17:35:12.796 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[21-05-2024 22:13:37.520 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[21-05-2024 22:21:18.053 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[21-05-2024 22:24:33.592 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[21-05-2024 22:24:40.459 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 08:29:09.086 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 08:29:09.089 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[23-05-2024 08:29:12.236 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
-[23-05-2024 08:29:12.364 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 16:14:51.416 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 16:14:51.419 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[23-05-2024 16:14:54.116 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
-[23-05-2024 16:14:54.206 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:24:38.095 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:24:38.135 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:24:46.993 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:24:48.842 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:24:53.850 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:25:01.802 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:25:03.644 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:25:08.650 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:25:17.486 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:28:23.337 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:28:23.376 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:28:23.401 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:28:25.423 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:28:25.427 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:28:28.309 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:28:30.014 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:28:35.022 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[23-05-2024 17:28:35.026 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:28:36.974 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:28:36.979 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[23-05-2024 17:28:49.419 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
-[23-05-2024 17:28:49.511 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[23-05-2024 17:35:29.159 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[23-05-2024 17:35:29.190 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[23-05-2024 17:35:33.088 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
-[23-05-2024 17:35:33.201 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 15:49:57.925 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 15:49:57.959 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 15:50:05.834 INFO com.vmo.letskodeit.helper.Log] - Seacrch Jw marriot hotel
-[25-05-2024 15:50:05.943 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 15:54:14.787 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 15:54:14.820 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 15:54:19.887 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 15:54:19.994 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 16:02:06.809 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 16:02:06.837 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 16:02:11.144 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 16:02:11.207 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 16:02:57.321 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 16:02:57.350 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 16:03:01.767 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 16:03:01.897 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 16:15:56.047 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 16:15:56.077 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 16:15:59.927 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 16:15:59.971 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:22:47.600 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:22:47.641 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:22:51.710 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 17:22:51.756 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:24:43.800 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:24:43.844 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:24:49.825 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 17:24:49.875 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:25:50.896 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:26:14.363 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:26:25.749 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 17:37:47.107 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:38:13.088 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:38:13.120 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:38:17.940 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 17:38:19.645 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:39:17.927 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:39:23.785 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:39:30.301 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 17:40:53.318 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 17:42:24.766 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 17:43:47.768 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 17:44:05.806 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 18:06:36.243 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 21:30:46.791 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 21:34:44.856 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 21:35:05.111 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 21:35:05.138 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 21:35:09.221 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 21:35:12.020 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[25-05-2024 21:35:16.863 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 21:57:48.080 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 21:57:48.122 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 21:58:55.698 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 21:59:39.334 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[25-05-2024 22:00:27.319 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 22:40:17.201 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 22:40:17.236 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 22:40:36.736 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 22:40:39.130 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[25-05-2024 22:40:49.526 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[25-05-2024 22:43:45.010 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[25-05-2024 22:43:45.039 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[25-05-2024 22:43:50.763 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[25-05-2024 22:43:52.985 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[25-05-2024 22:43:53.021 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 17:02:17.288 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 17:02:17.319 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[26-05-2024 17:02:37.518 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[26-05-2024 17:02:40.042 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[26-05-2024 17:02:40.064 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 21:46:38.575 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 21:46:38.610 INFO com.vmo.letskodeit.helper.Log] - open VNTrip page
-[26-05-2024 21:46:42.324 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[26-05-2024 21:46:44.368 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[26-05-2024 21:46:44.395 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 22:08:43.306 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:08:43.332 INFO com.vmo.letskodeit.helper.Log] - open Practice Page
-[26-05-2024 22:08:53.587 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 22:29:35.000 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:29:35.034 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:29:45.767 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
-[26-05-2024 22:29:45.777 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
-[26-05-2024 22:29:45.780 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 22:29:47.681 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:29:52.693 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:30:03.272 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
-[26-05-2024 22:30:03.281 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
-[26-05-2024 22:30:03.282 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[26-05-2024 22:30:05.148 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:30:10.154 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:37:12.882 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:37:12.923 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:37:22.726 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
-[26-05-2024 22:37:22.737 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
-[26-05-2024 22:37:22.801 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
-[26-05-2024 22:37:22.822 INFO com.vmo.letskodeit.helper.Log] - Select BENZ Checkbox
-[26-05-2024 22:37:22.866 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ Checkbox is selected
-[26-05-2024 22:37:22.880 INFO com.vmo.letskodeit.helper.Log] - Select BMW CheckBox
-[26-05-2024 22:37:22.915 INFO com.vmo.letskodeit.helper.Log] - Verify BMW Checkbox is selected
-[26-05-2024 22:37:22.932 INFO com.vmo.letskodeit.helper.Log] - Test Passed
-[26-05-2024 22:38:10.536 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:38:10.577 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:38:18.911 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
-[26-05-2024 22:38:18.923 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
-[26-05-2024 22:38:18.994 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
-[26-05-2024 22:38:19.013 INFO com.vmo.letskodeit.helper.Log] - Select BENZ radio
-[26-05-2024 22:38:19.059 INFO com.vmo.letskodeit.helper.Log] - Verify BENZ radio is lelected
-[26-05-2024 22:38:19.072 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
-[26-05-2024 22:38:19.113 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
-[26-05-2024 22:38:19.131 INFO com.vmo.letskodeit.helper.Log] - Select Honda radio
-[26-05-2024 22:38:19.169 INFO com.vmo.letskodeit.helper.Log] - Verify Honda radio is selected
-[26-05-2024 22:38:19.192 INFO com.vmo.letskodeit.helper.Log] - Test Passed
-[26-05-2024 22:38:48.214 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[26-05-2024 22:38:48.251 INFO com.vmo.letskodeit.helper.Log] - Open Practice Page
-[26-05-2024 22:38:58.935 INFO com.vmo.letskodeit.helper.Log] - Verify title is %s
-[26-05-2024 22:38:58.946 INFO com.vmo.letskodeit.helper.Log] - Select Disable or Enable button
-[26-05-2024 22:38:59.029 INFO com.vmo.letskodeit.helper.Log] - Verify Disable or Enable button is Enable
-[26-05-2024 22:38:59.048 INFO com.vmo.letskodeit.helper.Log] - Test Passed
-[27-05-2024 17:08:40.947 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[27-05-2024 17:11:46.491 INFO com.vmo.letskodeit.helper.Log] - Test Failed
-[27-05-2024 17:11:55.635 INFO com.vmo.letskodeit.helper.Log] - on Test Start
-[27-05-2024 17:11:55.689 INFO com.vmo.letskodeit.helper.Log] - Open Vntrip page
-[27-05-2024 17:12:01.404 INFO com.vmo.letskodeit.helper.Log] - Search Jw marriot hotel
-[27-05-2024 17:12:03.972 INFO com.vmo.letskodeit.helper.Log] - Chọn phòng Deluxe, 2 Giường Đôi, Nhìn Ra Thành Phố
-[27-05-2024 17:12:04.002 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[02-06-2024 17:06:55.973 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[02-06-2024 17:06:56.007 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[02-06-2024 17:06:56.104 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[02-06-2024 17:06:56.107 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[02-06-2024 17:08:22.181 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[02-06-2024 17:08:22.200 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 14:47:11.072 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 14:51:49.438 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 14:57:26.359 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:03:25.525 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:17:22.757 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:17:22.789 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 15:17:29.325 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 15:21:13.272 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:21:13.323 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 15:23:06.997 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:39:11.169 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 15:40:37.912 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:40:43.497 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 15:42:09.641 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:53:19.971 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 15:53:47.485 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:53:48.776 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 15:55:29.111 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 15:59:32.239 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 16:00:02.199 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:01:40.776 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 16:02:13.594 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:02:14.773 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 16:03:34.229 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:05:42.467 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 16:06:17.681 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:06:18.982 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 16:08:16.966 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:10:48.394 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 16:11:34.351 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 16:13:45.198 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 16:14:20.951 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:12:50.530 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:12:50.595 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:13:11.634 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:13:11.664 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:13:18.596 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:14:35.549 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:14:35.576 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:14:44.642 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:18:17.876 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:18:17.904 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:18:28.013 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:21:57.906 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:21:57.932 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:22:13.857 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[22-06-2024 17:26:42.127 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:26:42.158 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:26:53.593 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:36:18.234 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:36:18.263 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:36:30.375 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:36:31.407 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 17:57:25.800 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 17:57:25.828 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 17:57:36.651 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 18:01:37.609 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 18:01:37.640 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:01:51.256 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:01:52.642 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 18:05:16.739 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 18:05:16.778 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:07:04.092 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:08:47.425 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[22-06-2024 18:11:42.771 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 18:11:42.811 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:11:57.859 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 18:17:30.064 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 18:17:30.097 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:17:46.555 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[22-06-2024 18:20:28.123 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[22-06-2024 18:20:28.154 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[22-06-2024 18:20:53.908 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 08:21:03.235 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 08:21:03.262 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 08:21:08.369 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 08:21:08.480 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 08:22:15.919 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 08:22:15.960 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 08:22:20.806 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 08:58:28.991 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 08:58:55.923 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 08:58:55.953 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 08:59:01.292 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 08:59:51.884 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:11:41.459 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:11:41.489 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:11:46.630 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:11:52.505 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:12:24.556 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:12:24.583 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:12:30.828 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:12:30.907 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:31:46.034 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:31:46.059 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:31:52.168 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:31:52.231 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:31:54.579 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:33:18.262 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:33:18.287 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:33:48.860 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:33:48.917 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:33:53.285 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 09:35:03.064 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:35:03.089 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:35:08.695 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:35:08.755 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:35:13.605 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:37:10.373 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:37:10.397 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:37:17.420 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:37:17.474 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:37:19.830 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:39:42.595 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:39:42.620 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:39:48.590 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:39:48.658 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:39:51.000 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:40:43.208 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:40:43.242 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:40:50.180 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:40:56.053 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:44:05.409 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:44:05.438 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:44:10.482 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:44:10.542 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:44:12.915 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:46:28.454 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:46:28.492 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:46:52.439 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:47:12.717 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 09:57:26.218 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 09:58:01.517 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 09:58:01.558 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 09:58:07.728 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 09:58:18.148 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:03:37.044 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 10:04:05.000 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:04:05.030 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:04:10.435 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:04:10.608 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:07:27.854 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:07:27.882 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:07:33.017 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:07:37.086 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:07:39.437 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 10:09:57.852 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:09:57.882 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:10:02.846 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:10:06.972 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:10:09.328 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 10:10:29.055 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:10:29.082 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:10:36.793 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:10:40.897 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:10:44.193 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 10:21:07.076 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:21:07.101 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:21:13.895 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:21:20.817 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 10:21:25.087 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 10:44:20.010 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:44:20.048 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:44:42.272 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:44:51.570 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 10:46:52.019 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:46:52.042 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:47:15.194 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:47:23.706 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 10:48:27.717 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 10:48:27.743 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 10:49:09.614 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 10:49:14.864 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 11:02:09.872 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 11:02:09.898 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 11:02:46.936 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 11:02:54.175 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 11:06:04.908 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 11:06:04.935 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 11:06:36.558 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 11:06:42.568 INFO com.vmo.letskodeit.helper.Log] - Test Passed
+[23-06-2024 12:28:59.767 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:28:59.796 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:31:59.827 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:32:48.045 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:32:48.069 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:35:06.686 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:35:06.713 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:35:11.744 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:35:29.490 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:36:21.657 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:36:21.690 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:37:02.996 INFO com.vmo.letskodeit.helper.Log] - Click on Books Tag
+[23-06-2024 12:37:15.358 INFO com.vmo.letskodeit.helper.Log] - Add to cart 2 Books highest rated
+[23-06-2024 12:37:52.190 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:37:52.218 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:39:09.337 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:40:50.026 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:40:50.056 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:42:40.365 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:42:40.410 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:46:22.604 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:46:22.639 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:47:53.356 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:48:54.816 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:48:54.846 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:50:31.494 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 12:55:33.150 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 12:55:33.181 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 12:57:26.409 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 14:44:24.132 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 14:44:24.159 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 14:45:32.701 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 14:48:47.272 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 14:48:47.300 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 14:52:16.192 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 15:14:25.741 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 15:14:25.769 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 15:17:29.405 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 21:41:40.832 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 21:41:40.867 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 21:44:40.920 INFO com.vmo.letskodeit.helper.Log] - Test Failed
+[23-06-2024 22:43:12.203 INFO com.vmo.letskodeit.helper.Log] - on Test Start
+[23-06-2024 22:43:12.234 INFO com.vmo.letskodeit.helper.Log] - Open Demo Web Shop page
+[23-06-2024 22:46:12.275 INFO com.vmo.letskodeit.helper.Log] - Test Failed
