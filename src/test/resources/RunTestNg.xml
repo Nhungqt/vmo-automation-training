@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test my final framework" parallel = "tests" thread-count = "2">
+    <test name="Input peronal information">
+        <parameter name="browser" value="CHROME"></parameter>
+        <classes>
+            <class name="com.vmo.demowebshop.features.LoginTest"></class>
+            <class name="com.vmo.demowebshop.features.Buy2BooksHighestRatedTest"></class>
+            <class name="com.vmo.demowebshop.features.RemoveItemOutOfShoppingCartTest"></class>
+            <class name="com.vmo.demowebshop.features.BuyItemSuccessfullyTest"></class>
+        </classes>
+    </test>
+
+</suite>
